@@ -1,0 +1,36 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:Ackary/springcloud-config.git #github上git仓库名字
+          #搜索目录
+          search-paths:
+            - springcloud-config
+      #读取分支  通过http://config-3344.com:3344/master/config-dev.yml读取到config-dev.yml文件内容
+      label: master
+
+#rabbitmq相关配置
+rabbitmq:
+  host: localhost
+  port: 5672
+  username: guest
+  password: guest
+
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
+
+
+#rabbitmq相关配置，暴露bus刷新配置的端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
