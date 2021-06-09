@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e57dc37-be8a-4800-92b1-661a8a996526" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dcy-fast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn/es-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn/es-api/src/main/java/com/aking/es/test/EsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/java/com/aking/moke/SaTokenStartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/java/com/aking/moke/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/com/aking/moke/SaTokenStartApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/com/aking/moke/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/SeataOrderApplication2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/entity/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/file.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/registry.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/数据库相关/seata配置相关表" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/LearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/annotation/HandleResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/aspect/HandleResultAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/AspectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/MailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/TestRedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/MultiItemShare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/OrderItemShare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/ShareFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/ShareStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/SingleItemShare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ExceptionHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ResultUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/service/IMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/service/impl/MailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AliMailSdkUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AliMailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AnalizerTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/FilterStopWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/MyEnTokenizeStopStemUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/ViewFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/src/main/java/com/aking/TestPing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/RedisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/MailController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/TestRedis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/service/IMailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/service/impl/MailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AliMailSdkUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AliMailUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AnalizerTestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/FilterStopWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/MyEnTokenizeStopStemUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/RedisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/test/java/TestRedis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/target/test-classes/TestRedis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/src/main/java/com/moke/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/src/main/java/com/moke/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/classes/com/moke/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/classes/com/moke/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/cloud-provider-paymeny8002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/cloud-provider-paymeny8002-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/数据库相关/undo_log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\MavenRepository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1thnV1nA8qejU63cFZzXjrmOTvW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_learn/src/main/java/com/aking" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37356323" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\Java\studies\test_learn\src\main\java\com\aking" />
+      <recent name="F:\IdeaProjects\Java\studies\test_learn\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aking.LearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LearnApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e57dc37-be8a-4800-92b1-661a8a996526" name="Default Changelist" comment="" />
+      <created>1623230208516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623230208516</updated>
+      <workItem from="1623230210887" duration="2589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="94" key="#Project_Structure" timestamp="1623230784043">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623230784043" />
+    <state width="1877" height="142" key="GridCell.Tab.0.bottom" timestamp="1623232308499">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308499" />
+    <state width="1877" height="142" key="GridCell.Tab.0.center" timestamp="1623232308498">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="142" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308498" />
+    <state width="1877" height="142" key="GridCell.Tab.0.left" timestamp="1623232308498">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="142" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308498" />
+    <state width="1877" height="142" key="GridCell.Tab.0.right" timestamp="1623232308499">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="142" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308499" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1623232303585">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232303585" />
+    <state x="2513" y="180" key="new project wizard" timestamp="1623232353263">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2513" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232353263" />
+  </component>
+</project>

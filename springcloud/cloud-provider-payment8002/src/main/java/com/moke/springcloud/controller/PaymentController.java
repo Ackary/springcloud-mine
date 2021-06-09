@@ -8,6 +8,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -42,6 +44,10 @@ public class PaymentController {
     public CommonResult<Payment> getPaymentById(@PathVariable("id") Long id) {
         Payment payment = paymentService.getPaymentById(id);
         log.info("查询结果：" + payment);
+        ArrayList<Payment> payments = new ArrayList<>();
+        payments.add(new Payment(1L,"das"));
+        payments.add(new Payment(1L,"das"));
+        payments.add(new Payment(1L,"das"));
 
         if (payment != null) {
             return new CommonResult(200, "查询成功，serverPort：" + serverPort, payment);
