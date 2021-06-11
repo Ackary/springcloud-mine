@@ -2,127 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e57dc37-be8a-4800-92b1-661a8a996526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dcy-fast" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn/es-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn/es-api/src/main/java/com/aking/es/test/EsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/java/com/aking/moke/SaTokenStartApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/java/com/aking/moke/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/com/aking/moke/SaTokenStartApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sa-token-demo-springcloud/sa-token-start/target/classes/com/aking/moke/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/SeataOrderApplication2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/config/DataSourceProxyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/entity/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/StorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/java/com/moke/springcloud/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/file.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/seata-order-service2001/src/main/resources/registry.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud/数据库相关/seata配置相关表" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es-java-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/LearnApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/annotation/HandleResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/aspect/HandleResultAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/AspectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/MailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/controller/TestRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/MultiItemShare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/OrderItemShare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/ShareFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/ShareStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/designmode/SingleItemShare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ExceptionEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ExceptionHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/handle/ResultUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/service/IMailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/service/impl/MailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AliMailSdkUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AliMailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/AnalizerTestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/FilterStopWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/MyEnTokenizeStopStemUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/RedisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/ViewFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_learn/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/src/main/java/com/aking/TestPing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-01-jedis/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/RedisApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/config/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/MailController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/controller/TestRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/pojo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/service/IMailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/service/impl/MailServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AliMailSdkUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AliMailUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/AnalizerTestDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/FilterStopWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/MyEnTokenizeStopStemUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/RedisUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/java/com/aking/utils/WordCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/src/test/java/TestRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redis-jedis/redis-02-springboot/target/test-classes/TestRedis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/src/main/java/com/moke/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/src/main/java/com/moke/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/classes/com/moke/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/classes/com/moke/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/cloud-provider-paymeny8002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8002/target/cloud-provider-paymeny8002-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud/数据库相关/undo_log" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/EsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsCreateIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsInsertDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/EsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/main/java/com/aking/es/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/src/test/java/ElasticsearchClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/classes/com/aking/es/EsClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/classes/com/aking/es/EsCreateIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/es-java-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es-java-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/IkAnalyzer/ExtendedIKAnalyzerDicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/IkAnalyzer/IKAnalyzer4Lucene7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/IkAnalyzer/IKAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/IkAnalyzer/IKTokenizer4Lucene7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/java/com/aking/utils/HutoolTokenizerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/resources/ext.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_learn/src/main/resources/ext_stopword.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es-java-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/es-java-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test_learn/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,35 +78,98 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_learn/src/main/java/com/aking" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/es-java-api/src/main/java/com/aking" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37356323" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\Java\studies\test_learn\src\main\resources\analysis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aking.es" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\IdeaProjects\Java\studies\test_learn\src\main\java\com\aking" />
       <recent name="F:\IdeaProjects\Java\studies\test_learn\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="LearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="test_learn" />
+  <component name="RunManager" selected="Application.EsSearch">
+    <configuration name="EsCreateIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aking.es.EsCreateIndex" />
+      <module name="es-java-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aking.*" />
+          <option name="PATTERN" value="com.aking.es.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aking.LearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aking.es.EsDelete" />
+      <module name="es-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aking.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aking.es.EsSearch" />
+      <module name="es-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aking.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendedIKAnalyzerDicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aking.IkAnalyzer.ExtendedIKAnalyzerDicTest" />
+      <module name="test_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aking.IkAnalyzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IKAnalyzerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aking.IkAnalyzer.IKAnalyzerTest" />
+      <module name="test_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aking.IkAnalyzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.LearnApplication" />
+        <item itemvalue="Application.EsSearch" />
+        <item itemvalue="Application.EsDelete" />
+        <item itemvalue="Application.EsCreateIndex" />
+        <item itemvalue="Application.ExtendedIKAnalyzerDicTest" />
+        <item itemvalue="Application.IKAnalyzerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -214,8 +183,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623230208516</updated>
-      <workItem from="1623230210887" duration="2589000" />
+      <workItem from="1623230210887" duration="4488000" />
+      <workItem from="1623290160099" duration="1852000" />
+      <workItem from="1623292043477" duration="12021000" />
     </task>
+    <task id="LOCAL-00001" summary="新增了AOP切面、分词等内容">
+      <created>1623232922756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623232922756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,32 +202,76 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="新增了AOP切面、分词等内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增了AOP切面、分词等内容" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2360" y="94" key="#Project_Structure" timestamp="1623230784043">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1623313531182">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623313531182" />
     <state x="2360" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623230784043" />
-    <state width="1877" height="142" key="GridCell.Tab.0.bottom" timestamp="1623232308499">
+    <state x="2474" y="87" key="CommitChangelistDialog2" timestamp="1623232921692">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308499" />
-    <state width="1877" height="142" key="GridCell.Tab.0.center" timestamp="1623232308498">
+    <state x="2474" y="87" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232921692" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1623291189345">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="142" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308498" />
-    <state width="1877" height="142" key="GridCell.Tab.0.left" timestamp="1623232308498">
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623291189345" />
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1623374877696">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="142" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308498" />
-    <state width="1877" height="142" key="GridCell.Tab.0.right" timestamp="1623232308499">
+    <state width="1877" height="466" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623316393870" />
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623374877696" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1623374877696">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="142" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232308499" />
-    <state x="2360" y="94" key="SettingsEditor" timestamp="1623232303585">
+    <state width="1877" height="466" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623316393870" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623374877696" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1623374877695">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232303585" />
+    <state width="1877" height="466" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623316393870" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623374877695" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1623374877696">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="466" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623316393870" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623374877696" />
+    <state width="1877" height="69" key="GridCell.Tab.1.bottom" timestamp="1623232883621">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="69" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232883621" />
+    <state width="1877" height="69" key="GridCell.Tab.1.center" timestamp="1623232883621">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="69" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232883621" />
+    <state width="1877" height="69" key="GridCell.Tab.1.left" timestamp="1623232883621">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="69" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232883621" />
+    <state width="1877" height="69" key="GridCell.Tab.1.right" timestamp="1623232883621">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="69" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232883621" />
+    <state x="424" y="103" key="SettingsEditor" timestamp="1623308856186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="103" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623308856186" />
+    <state x="2344" y="103" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623291980499" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623232929476">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623232929476" />
+    <state x="2679" y="297" key="chooseDestDirectoryDialog" timestamp="1623318026611">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2679" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623318026611" />
+    <state x="314" y="34" width="1533" height="997" key="dock-window-1" timestamp="1623309656009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="34" width="1533" height="997" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1623309656009" />
     <state x="2513" y="180" key="new project wizard" timestamp="1623232353263">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
